@@ -33,8 +33,8 @@
 - **Reinforcement Learning:** Q-learning, PPO, `stable-baselines3`, OpenAI Gymnasium
 
 ### 🌐 Web & App Development
-- **Frontend (exposure with):** HTML, CSS (Tailwind), JavaScript, React, React Native
-- **Backend (my preference):** APIs and routes with Node.js (Express.js) and FastAPI
+- **Frontend (just getting my feet wet):** HTML, CSS (Tailwind), JavaScript, React, React Native
+- **Backend (where I have more fun 😄):** Node.js (Express.js) and FastAPI
 
 ### ☁️ Cloud & Tooling
 - Docker, AWS, Render
@@ -44,7 +44,7 @@
 - Recently started using GitHub Copilot with VS Code
 
 ### 🧪 Miscellaneous
-- Haskell, Scheme (SICP), Pygame, PySAT (SAT solver), Makefiles, local LLMs (Ollama)
+- Haskell, Scheme (SICP), Pygame, PySAT (SAT solver), Makefiles, Git, gdb, local LLMs (Ollama)
 
 ---
 
