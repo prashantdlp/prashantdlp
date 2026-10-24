@@ -44,7 +44,7 @@
 - Recently started using GitHub Copilot with VS Code
 
 ### 🧪 Miscellaneous
-- Haskell, Scheme (SICP), Pygame, PySAT (SAT solver), Makefiles, Git, gdb, local LLMs (Ollama)
+- Haskell, Scheme (SICP), Pygame, PySAT (SAT solver), Makefiles, Git, gdb, SDL (Simple DirectMedia Layer), local LLMs (Ollama)
 
 ---
 
