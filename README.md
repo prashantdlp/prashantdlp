@@ -22,11 +22,12 @@
 - **Performance engineering:** vectorized C++ (`immintrin.h`), loop unrolling, cache behaviour, inline asm
 - **Simulators:** cache simulator work (a ChampSim fork), network emulators and simulator-based projects, Wireshark
 - **Most loved:** extending **xv6-riscv** in C
+- **Rust** 🦀 & **Java** ☕ – tinkering with it when I can. Still getting acquainted.
 
 ### 🤖 AI / ML
 *Another favorite area, with Deep Learning at the top.*
 
-- Implemented almost all classic ML algorithms **from scratch in NumPy** (used `cvxopt` for QP 😅)
+- Implemented almost all classic ML algorithms **from scratch in NumPy** (used `cvxopt` for QP though 😅)
 - Hands-on with **pandas, scikit-learn, PyTorch**
 - **NLP, fine-tuning, RAG, prompt engineering**, agentic workflows (LangChain, LangGraph)
 - **Reinforcement Learning:** Q-learning, PPO, `stable-baselines3`, OpenAI Gymnasium
