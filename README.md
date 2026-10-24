@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Prashant 👋</h1>
 
 <p align="center">
-  <b>3rd-year B.Tech in Computer Science @ IIT Bombay</b><br>
+  <b>3rd-year B.Tech in Computer Science @ IIT Bombay | Incoming SWE Intern @Walmart </b><br>
   I just love to tinker with technology. Below is a peek at what I've been tinkering with.
 </p>
 
