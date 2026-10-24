@@ -87,15 +87,6 @@
 
 ---
 
-## 🌐 Connect with Me
-
-<p>
-  <a href="https://linkedin.com/in/prashant-meena-2a5b3b332"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:pmeena1907@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
----
-
 ### ✍️ Random Dev Quote
 
 <p align="center">
