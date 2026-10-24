@@ -32,7 +32,7 @@
 - **Reinforcement Learning:** Q-learning, PPO, `stable-baselines3`, OpenAI Gymnasium
 
 ### 🌐 Web & App Development
-- **Frontend:** HTML, CSS (Tailwind), JavaScript, React, React Native
+- **Frontend (exposure with):** HTML, CSS (Tailwind), JavaScript, React, React Native
 - **Backend (my preference):** APIs and routes with Node.js (Express.js) and FastAPI
 
 ### ☁️ Cloud & Tooling
